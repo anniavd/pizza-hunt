@@ -11,7 +11,7 @@ Pizza Hunt is an application that allows users to connect with each other based 
 
    ![Homepage](public/assets/images/homepage.jpg)
  _____________________________________________________________________
- Visit the site! [Zoo Keepr](https://zookeepr1.herokuapp.com/)
+ Visit the site! [Pizza Hunt](https://tranquil-refuge-93011.herokuapp.com/)
 
 # Table of Contents
 
@@ -37,8 +37,22 @@ Pizza Hunt is an application that allows users to connect with each other based 
 
 # Usage 
  -  The user has several options to choose from to interact with the application, such as:
->
 
+
+> - The user can create pizzas by clicking on the button `Create a New Pizza` and the following page is shown below; he will give a name to his pizza, provide his name or nickname and select the ingredients that his pizza and you have the option to add another topping to the list by clicking on the `Add Topping` button. Finally you will click on` Submit Recipe` to create your pizza.
+
+
+ ![forms create pizza](public/assets/images/create-pizza.jpg)
+
+
+The user can see all the pizzas that have been created, as well as discuss with other users about a certain pizza by clicking on the `See the discussion` button to add a comment.
+
+Image show all pizzas.
+![page with all pizzas](public/assets/images/all-pizzas.jpg)
+
+Image for the user see the discussion and add a comment.
+
+ ![ form  to add a comment](public/assets/images/add-comment.jpg)
 
 
 # License
