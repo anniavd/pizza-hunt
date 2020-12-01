@@ -70,7 +70,6 @@ NONE
 
 
 
-
 # Questions
 
   If you have questions about the project, below you can find ways to answer them, either by visiting my highub or contacting me by email
